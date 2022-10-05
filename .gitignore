@@ -1,1 +1,3 @@
-some text
+*.bbl
+*.log
+*.synctex.gz
