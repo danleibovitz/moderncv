@@ -9,7 +9,7 @@
 \documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
 % moderncv themes
-\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
 \moderncvcolor{burgundy}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
@@ -26,13 +26,11 @@
 % personal data
 \name{Daniel}{Leibovitz}
 \title{Resumé title}                               % optional, remove / comment the line if not wanted
-\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 \phone[mobile]{+41~76~604~37~67}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 \email{danleibovitz@gmail.com}                               % optional, remove / comment the line if not wanted
 \homepage{danleibovitz.github.io/}          % optional, remove / comment the line if not wanted
 \social[linkedin]{danielleibovitz}                        % optional, remove / comment the line if not wanted
 \social[github]{danleibovitz}                              % optional, remove / comment the line if not wanted
-\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
 \quote{Some quote}                                 % optional, remove / comment the line if not wanted
 
 % bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
@@ -61,7 +59,7 @@
 
 \section{Master thesis}
 \cvitem{title}{\emph{Mixtures of Partially Linear Models with Monotone Shape Constraints}}
-\cvitem{supervisors}{Matthias Loeffler, Tor}
+\cvitem{supervisors}{Matthias Loeffler, Torsten Hothorn}
 \cvitem{description}{Short thesis abstract}
 
 \section{Experience}
@@ -94,12 +92,12 @@ Detailed achievements:%
 \cvitemwithcomment{English}{Native}{Comment}
 \cvitemwithcomment{Spanish}{Fluent}{Comment}
 \cvitemwithcomment{French}{Fluent}{Comment}
-\cvitemwithcomment{American Sign Language}{Conversational}{Comment}
+\cvitemwithcomment{ASL}{Conversational}{Comment}
 
 \section{Computer skills}
-\cvdoubleitem{category 1}{XXX, YYY, ZZZ}{category 4}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+\cvdoubleitem{Statistics}{Causal inference, Hypothesis testing, Decision Theory, Bayesian Stats, Mixed / Hierarchical Modelling, Adaptive Sample-Size Calculation, High-dimensional inference
+}{ML}{Time-Series, Non-linear Regression, Classification, Clustering, Dimension Reduction, Ensemble Learning}
+\cvdoubleitem{Languages}{R, Python, Java, SQL/noSQL}{Frameworks}{git, OSX/Linux/Windows, Docker}
 
 
 \section{Extra 1}
@@ -110,9 +108,9 @@ Detailed achievements:%
 
 \section{References}
 \begin{cvcolumns}
-  \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
-  \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
-  \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+  \cvcolumn{Name}{\begin{itemize}\item Alessandro Previtali \item Matthias Loeffler \item Martina Rothenbuhler \end{itemize}}
+  \cvcolumn{Position}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+  \cvcolumn{Contact}{\textit{That} person, and \textbf{those} also (all available upon request).}
 \end{cvcolumns}
 
 % Publications from a BibTeX file without multibib
