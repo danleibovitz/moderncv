@@ -1,0 +1,56 @@
+
+
+Daniel Leibovitz
+[mobile] +41~76~604~37~67
+email danleibovitz@gmail.com
+homepage danleibovitz.github.io/
+[github] danleibovitz
+
+
+{Employment & Research}
+{2022--now} {Principal Biostatistician, Incyte, Switzerland, R\&D for Company-wide Statistical Platform, Statistics for Clinical Trials.}
+{2021--2022} {Graduate Biostatistics Intern, Bristol Myers Squibb, Switzerland, Applied research on crossover in RCTs. Built crossover simulator for internal company use.}
+{2020--2021} {Wearable Devices Statistician, Ava, Switzerland, Stats lead on wearable device efficacy. Modelling, ETL, versioning, \& results communication.}
+{2018--2019} {Project Lead, Social Change Factory, Senegal}
+{2017--2018} {Clinical Research Assistant, Provincial OCD Program BC Children's, Canada}
+{2016--2017} {Neuroscience Research Assistant, Seaman's Lab UBC, Canada}
+{2016--2017} {Psychology Research Assistant, Weber Lab UBC, Canada}
+{2016--2017} {Psychology Research Assistant, Peer Relations Lab UBC, Canada}
+{2016--2017} {Medical Research Assistant, UCLA Brain Tumor Program, U.S.A}
+
+
+{Education}
+{2019--2021} {Master Biostatistics, University of Zurich, Zurich. Thesis: Mixtures of Partially Linear Models with Monotone Shape Constraints. Supervisors: Matthias Loeffler, Torsten Hothorn}
+{2016--2017} {Computer Science (Diploma Program), Simon Fraser University, Canada, Coursework in OOP, Relational Databases, Operating Systems, etc.}
+{2014--2015} {Bachelor Psychology, University of British Columbia, Canada}
+{2011--2013} {Associate Political Science, Deep Springs College, U.S.A}
+
+
+{Technical Skills}
+{Statistics: Causal Inference, Bayesian Stats, High-Dimensional Inference}
+{ML: Time-Series, Clustering, Classification, Ensemble Learning}
+{Programming: R, Python, Java, SQL/noSQL}
+{Other: git, unix/bash, Docker}
+
+
+{Languages}
+{English}: {Native}
+{Spanish}: {Fluent}
+{French}: {Fluent}
+{ASL}: {Conversational}
+
+{Publications}
+[1] D Leibovitz, A Previtali, J Lymp, R Ananthakrishnan. simswitch: A Novel Treat- ment Switching Simulator. [In submission to Journal of Statistical Software], 2022.
+[2] S Halvachizadeh §, D Leibovitz §, L Held, K O Jensen. § indicates equal contri- bution. The number of beds occupied is an independent risk factor for discharge of trauma patients. Accepted in Medicine (by Elsevier), 2022.
+[3] M Risch, K Grossmann, S Aeschbacher, O C Weideli, M Kovac, F Pereira, N Wohlwend, C Risch, D Hillmann, T Lung, H Renz, R Twerenbold, M Rothenbühler, D Leibovitz, V Kovacevic, A Markovic, P Klaver, T B Brakenhoff, B Franks, M Mitratza, G S Downward, A Dowling, S Montes, D E Grobbee, M Cronin, D Conen, B M Goodale, L Risch. The Lancet (preprint), doi: 10.2139/ssrn.3900401 Investigation of the Use of a Sensor Bracelet for the Pre-Symptomatic Detection of COVID-19: A National Cohort Study (COVI-Gapp).. The Lancet, doi: 10.2139/ssrn.3900401, 2022.
+[4] M Risch, K Grossmann, S Aeschbacher, O C Weideli, M Kovac, F Pereira, N Wohlwend, C Risch, D Hillmann, T Lung, H Renz, R Twerenbold, M Rothenbühler, D Leibovitz, V Kovacevic, A Markovic, P Klaver, T B Brakenhoff, B Franks, M Mitratza, G S Downward, A Dowling, S Montes, D E Grobbee, M Cronin, D Conen, B M Goodale, L Risch. Investigation of the use of a sensor bracelet for the presymptomatic detection of changes in physiological parameters related to COVID-19: an interim analysis of a prospective cohort study (COVI-GAPP).. BMJ Open, doi: 10.1136/bmjopen-2021-058274, 2021.
+[5] A Lindsay, B Caracheo, B Grewal, D Leibovitz, J Seamans. How much does movement and location encoding impact prefrontal cortex activity? An algorithmic decoding approach in freely moving rats. eNeuro, doi: 10.1523/ENEURO.0023-18, 2018.
+[6] 2015 RC Weber, A Lee, K Walsh, JCBR Pinto, D Leibovitz, M Morton. Family vari- ables and cognitive development in children: A meta-analysis of current literature. Paper presented at the annual meeting of the American Psychological Association, Denver, CO, United States, 2015.
+
+
+{Talks}
+{2022} {The Least Bad Option: A Simulation Approach to Minimizing Bias When Accounting for Treatment Switching in RCTs, Joint Statistical Meeting, Washington D.C., U.S.A}
+{2022} {Simulating Data and Bias in the Analysis of Trials with Treatment Switching, Statisticians in the Pharmaceutical Industry, Gothenburg, Sweden}
+{2021} {Mixtures of Monotone Regressions: A Novel Model, UZH Biostatistics Colloquium, Zurich, Switzerland}
+{2015} {Executive Functions as a Predictor of Peer-Relation Difficulties in Children with ADHD., Canadian ADHD Resource Alliance Conference, Vancouver, Canada}
+
